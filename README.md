@@ -30,11 +30,11 @@ You should be using [Pipenv](https://pipenv.readthedocs.io/en/latest/). Take a l
 
 # Project Information
 
-`# TODO`
+`Rotten Tomatoes`
 
 ## Description
 
-`# TODO`
+`Pomodoro Timer which makes your live a little more difficult.`
 
 ## Setup & Installation
 
